@@ -27,7 +27,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/faustinopsy/telepromp.git](https://github.com/faustinopsy/telepromp.git)
+git clone [https://github.com/faustinopsy/GhostPrompter.git](https://github.com/faustinopsy/GhostPrompter.git)
 
 ```
 2. Instale as dependencias
